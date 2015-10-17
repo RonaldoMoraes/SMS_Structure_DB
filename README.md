@@ -16,6 +16,7 @@ EVENT:
 	"id_client":1,
 	"date_queue_entry":"2015-10-05 23:24:54",
 	"datetime_start":"2015-10-05 23:24:54",
+	"datetime_end":"2015-11-15 20:24:54",
 	"just_now":0, //0 se for um evento recorrente, 1 se for um evento unico
 	"period":5, //de 5 em 5 dias, no horario do datetime_start
 	"text":"Aqui vai a mensagem que sera destinada para os contatos abaixo."
