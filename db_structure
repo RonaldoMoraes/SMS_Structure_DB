@@ -45,6 +45,7 @@ CREATE TABLE IF NOT EXISTS `event` (
   `id_client` int(11) NOT NULL,
   `date_queue_entry` datetime NOT NULL,
   `datetime_start` datetime NOT NULL,
+  `datetime_end` datetime NOT NULL,
   `just_now` tinyint(1) NOT NULL,
   `period` int(11) NOT NULL,
   `text` varchar(255) COLLATE utf8_unicode_ci NOT NULL
